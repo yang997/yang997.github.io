@@ -1,4 +1,4 @@
-# yang997.github.io
+# https://yang997.github.io/SliderAuto/sliderAuto.html
 ##原生JS轮播图插件 sliderImg
 - 插件使用方法:获取到轮播图父级dom元素div，调用扩展在HTMLDivElement原型上的sliderImg方法
 - 在应用样式中需要设置父级的固定宽高
