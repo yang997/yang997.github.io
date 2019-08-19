@@ -8,7 +8,8 @@
  ```js
   var oDiv = document.getElementById('wrapper');
         oDiv.sliderImg({
-            image: ['./imges/1.jpg', './imges/2.jpg', './imges/3.jpg', './imges/4.jpg'],
+            image: ['./imges/1.jpg', './imges/2.jpg', './imges/3.jpg','./imges/4.jpg'],
             interVal: 3000
         })
 ```
+ 
