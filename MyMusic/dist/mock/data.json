@@ -18,8 +18,8 @@
         "isLike": false
     },
     {
-        "image": "MyMusic/source/song_3.jpg",
-        "audio": "MyMusic/source/song_3.mp3",
+        "image": "..../source/song_3.jpg",
+        "audio": "..../source/song_3.mp3",
         "song": "Shape of You",
         "album": "÷",
         "singer": "ed sheeran",
