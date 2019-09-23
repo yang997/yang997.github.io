@@ -1,4 +1,9 @@
 
+// oDiv.sliderImg({
+//     image: ['./imges/1.jpg', './imges/2.jpg', './imges/3.jpg', './imges/4.jpg'],
+//     interVal: 3000
+// })
+
 (function () {
     function Swiper(opt) {
         this.wrap = opt.father;
@@ -10,7 +15,7 @@
     Swiper.prototype.init = function () {
         this.nowIndex = 0;
         this.timer = null;
-        this.timer1 = null;
+        // this.timer1 = null;
         this.lock = true;
         this.len = this.img.length;
         this.itemWidth = this.wrap.offsetWidth;
@@ -38,10 +43,10 @@
         var list = `<ul></ul>`;
         var liStr = '';
         for (var i = 0; i < this.len; i++) {
-            str += `<li><a href="javascript:;"><img src="${this.img[i]}" alt=""></a></li>`;
+            str += `<li style="width:${w}px;height:${h}px"><a href="javascript:;" ><img src="${this.img[i]}" alt=""></a></li>`;
             liStr += `<span></span>`;
         }
-        str += `<li><a href="javascript:;"><img src="${this.img[0]}" alt=""></a></li>`
+        str += `<li style="width:${w}px;height:${h}px"><a href="javascript:;"><img src="${this.img[0]}" alt=""></a></li>`
 
         var sliderPage = `<ul class="sliderPage" style="width:${ulW}px; height:${h}px">${str}</ul>`;
 
@@ -81,7 +86,7 @@
                     self.nowIndex = myIndex;
                     self.starSlider(self.sliderPage, -self.nowIndex * self.w, function () {
                         self.lock = true;
-                        self.timer = setTimeout(self.autoMove, 1500);
+                        self.timer = setTimeout(self.autoMove, self.interVal);
                         self.changeIndex(self.nowIndex);
                     })
                 }
@@ -98,6 +103,7 @@
 
     Swiper.prototype.move = function () {
         var self = this;
+        // console.log(self)
         this.autoMove = function (direction) {
             if (self.lock) {
 
@@ -110,7 +116,7 @@
                             self.nowIndex = 0;
                             self.sliderPage.style.left = 0 + 'px';
                         }
-                        self.timer = setTimeout(self.autoMove, 1500);
+                        self.timer = setTimeout(self.autoMove, self.interVal);
                         self.lock = true;
                         self.changeIndex(self.nowIndex);
                     });
@@ -120,17 +126,17 @@
                         self.nowIndex = self.len;
                     }
                     self.nowIndex--;
-                    console.log(self.nowIndex)
-                    console.log(self.sliderPage.offsetLeft)
+                    // console.log(self.nowIndex)
+                    // console.log(self.sliderPage.offsetLeft)
                     self.starSlider(self.sliderPage, (self.sliderPage.offsetLeft + self.w), function () {
-                        self.timer = setTimeout(self.autoMove, 1500);
+                        self.timer = setTimeout(self.autoMove,self.interVal);
                         self.lock = true;
                         self.changeIndex(self.nowIndex);
                     })
                 }
             }
         }
-        self.timer = setTimeout(this.autoMove, 1500);
+        self.timer = setTimeout(this.autoMove, self.interVal);
 
         this.starSlider = function (dom, target, func) {
             clearInterval(self.timer1);
