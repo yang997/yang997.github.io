@@ -1,0 +1,110 @@
+{   
+    "one": [
+            {   "name":"灭绝",
+                "img":"https://p1.meituan.net/movie/cb6cccf0a8231196b27f7e25fe5d51192325214.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num": 18319,
+                "score":null
+            },
+            {   "name":"妈妈,我想你",
+                "img":"https://p1.meituan.net/moviemachine/1a0960d730809eecb2053937034f83a62383936.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":true,
+                "num": 8610,
+                "score":null
+            },
+            {   "name":"星际穿越",
+                "img":"https://p1.meituan.net/moviemachine/94138dc0290a74b35786b6e3b8ece8607940668.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num": 105505,
+                "score":null
+
+            },
+            {   "name":"十三猎杀",
+                "img":"https://p1.meituan.net/movie/db49d9f71939a9bd02a386892b2ddb8b379526.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num":4240,
+                "score":null
+
+            },
+            {   "name":"爱是一场温柔幻觉",
+                "img":"https://p1.meituan.net/movie/7cff75e90716420f35f854b4f62b2145823693.png@321w_445h_1e_1c",
+                "mark":true,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":null,
+                "num":233,
+                "score":null
+            }
+         
+        ],
+     "two": [
+            {   "name":"1971",
+                "img":"https://p0.meituan.net/movie/48942d3afc4241455e7057427dcb16d62460030.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num":14440,
+                "score":null
+            },
+            {   "name":"极速车王",
+                "img":"https://p0.meituan.net/moviemachine/a647d6a34829395ab8f5790a2a9148df573298.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num": 5372,
+                "score":null
+            },
+            {   "name":"旺扎的雨靴",
+                "img":"https://p1.meituan.net/movie/1d1888811572cbddbb010afc05dd1ec02041153.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":null,
+                "num": 1401,
+                "score":null
+            },
+            {   "name":"初恋这首情歌",
+                "img":"https://p1.meituan.net/moviemachine/94138dc0290a74b35786b6e3b8ece8607940668.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":null,
+                "num": 1038,
+                "score":null
+            },
+            {   "name":"无辜囚徒",
+                "img":"https://p0.meituan.net/moviemachine/faa05ade4c30207dd91c812a32bcc33a192759.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":null,
+                "num": 1015,
+                "score":null
+            }
+        ]
+    
+}

@@ -1,0 +1,253 @@
+{
+    "list":[
+        {
+            "subtitle":"热门城市",
+            "hotlist":[
+                {
+                    "name": "常州",
+                    "hot": false
+                },
+                {
+                    "name": "苏州",
+                    "hot": false
+                },
+                {
+                    "name": "杭州",
+                    "hot": false
+                },
+                {
+                    "name": "石家庄",
+                    "hot": false
+                },
+                {
+                    "name": "西安",
+                    "hot": false
+                },
+                {
+                    "name": "宁波",
+                    "hot": false
+                },
+                {
+                    "name": "天津",
+                    "hot": false
+                },
+                {
+                    "name": "无锡",
+                    "hot": false
+                },
+                {
+                    "name": "合肥",
+                    "hot": false
+                },
+                {
+                    "name": "太原",
+                    "hot": false
+                },
+                {
+                    "name": "长沙",
+                    "hot": false
+                },
+                {
+                    "name": "重庆",
+                    "hot": false
+                },
+                {
+                    "name": "温州",
+                    "hot": false
+                },
+                {
+                    "name": "南京",
+                    "hot": false
+                },
+                {
+                    "name": "郑州",
+                    "hot": false
+                },
+                {
+                    "name": "成都",
+                    "hot": false
+                },
+                {
+                    "name": "沈阳",
+                    "hot": false
+                },
+                {
+                    "name": "厦门",
+                    "hot": false
+                },
+                {
+                    "name": "深圳",
+                    "hot": false
+                },
+                {
+                    "name": "南宁",
+                    "hot": false
+                }
+              ]
+        },
+        {
+            "subtitle":"热门分类",
+            "hotlist":[
+                {
+                    "name": "酒店",
+                    "hot": true
+                },
+                {
+                    "name": "美食",
+                    "hot": false
+                },
+                {
+                    "name": "休闲娱乐",
+                    "hot": false
+                },
+                {
+                    "name": "运动健身",
+                    "hot": false
+                },
+                {
+                    "name": "生活服务",
+                    "hot": false
+                },
+                {
+                    "name": "上门服务",
+                    "hot": false
+                },
+                {
+                    "name": "购物",
+                    "hot": false
+                },
+                {
+                    "name": "时尚购",
+                    "hot": false
+                },
+                {
+                    "name": "本地购物",
+                    "hot": false
+                },
+                {
+                    "name": "结婚",
+                    "hot": false
+                },
+                {
+                    "name": "摄影写真",
+                    "hot": false
+                },
+                {
+                    "name": "宴会",
+                    "hot": false
+                },
+                {
+                    "name": "丽人",
+                    "hot": false
+                },
+                {
+                    "name": "母婴亲子",
+                    "hot": false
+                },
+                {
+                    "name": "学习培训",
+                    "hot": false
+                },
+                {
+                    "name": "家装",
+                    "hot": false
+                },
+                {
+                    "name": "汽车服务",
+                    "hot": false
+                },
+                {
+                    "name": "医疗",
+                    "hot": false
+                },
+                {
+                    "name": "宠物",
+                    "hot": false
+                }
+            ]
+
+        },
+        {
+            "subtitle":"周边热门",
+            "hotlist":[
+                {
+                    "name":"门头沟区酒店",
+                    "hot":false
+                }
+                ,{
+                    "name":"大厂回族自治县美食",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊休闲娱乐",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区运动健身",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区生活服务",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊上门服务",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊购物",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊时尚购",
+                    "hot":false
+                }
+                ,{
+                    "name":"大厂回族自治县本地购物",
+                    "hot":false
+                }
+                ,{
+                    "name":"大厂回族自治县结婚",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊摄影写真",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊宴会",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区丽人",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区母婴亲子",
+                    "hot":false
+                }
+                ,{
+                    "name":"廊坊学习培训",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区家装",
+                    "hot":false
+                }
+                ,{
+                    "name":"大厂回族自治县汽车服务",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区医疗",
+                    "hot":false
+                }
+                ,{
+                    "name":"门头沟区宠物",
+                    "hot":false
+                }
+            ]
+
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{   
+    "one": [
+            {   "name":"抵达之谜",
+                "img":"https://p1.meituan.net/movie/e96758adb4b03fd3302cb63fe8f63bd92262906.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":true,
+                "num": 57340,
+                "score":null
+            },
+            {   "name":"多力特的奇幻冒险",
+                "img":"https://p1.meituan.net/movie/f64465a28c26a576837f06ccf04b6a973008156.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :null,
+                "max3d":"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax3d.png",
+                "ticketflag": true,
+                "ticket":true,
+                "num": 57340,
+                "score":null
+            },
+            {   "name":"刺猬索尼克",
+                "img":"https://p0.meituan.net/movie/4cc8fa5631ce31ff577b6c2a70463165986724.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":true,
+                "num": 25201,
+                "score":null
+
+            },
+            {   "name":"误杀",
+                "img":"https://p0.meituan.net/movie/22857bface4d3e8586c8f45858d4fa92662013.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":true,
+                "num":null,
+                "score":9.4
+
+            },
+            {   "name":"1971",
+                "img":"https://p0.meituan.net/movie/48942d3afc4241455e7057427dcb16d62460030.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num":14440,
+                "score":null
+            }
+         
+        ],
+     "two": [
+            {   "name":"妙先生",
+                "img":"https://p0.meituan.net/moviemachine/84715f4b8f6b415faba9ef96ec5962fb488389.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": null,
+                "ticket":null,
+                "num":67296,
+                "score":null
+            },
+            {   "name":"乔乔的异想世界",
+                "img":"https://p1.meituan.net/moviemachine/cf4214c958bf8ac49fd7406016ecdee23939638.jpg@321w_445h_1e_1c",
+                "mark":null,
+                "max" :null,
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":true,
+                "num": 17162,
+                "score":null
+            },
+            {   "name":"喋血战士",
+                "img":"https://p1.meituan.net/moviemachine/1a7fa631ad461a6726637d89632681c5415004.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":true,
+                "num": null,
+                "score":8.3
+            },
+            {   "name":"星际穿越",
+                "img":"https://p1.meituan.net/moviemachine/94138dc0290a74b35786b6e3b8ece8607940668.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :"https://s0.meituan.net/bs/fe-web-meituan/25e6614/img/imax.png",
+                "max3d":null,
+                "ticketflag": true,
+                "ticket":null,
+                "num": 105505,
+                "score":null
+            },
+            {   "name":"寻梦环游记",
+                "img":"https://p1.meituan.net/movie/14f9018b371d94dd812772704613babd475457.jpg@321w_445h_1e_1c",
+                "mark":true,
+                "max" :null,
+                "max3d":"https://s0.meituan.net/bs/fe-web-meituan/9d1997a/img/3d.png",
+                "ticketflag": true,
+                "ticket":null,
+                "num": null,
+                "score":9.6
+            }
+        ]
+    
+}
